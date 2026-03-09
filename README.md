@@ -174,14 +174,14 @@ Confidence Score: 0.50
 
 # Technologies Used
 
-Python
-Streamlit
-Sentence Transformers
-ChromaDB
-Ollama (TinyLlama)
-BeautifulSoup
-Pandas
-Pillow
+Python           
+Streamlit                
+Sentence Transformers                  
+ChromaDB                        
+Ollama (TinyLlama)                  
+BeautifulSoup                         
+Pandas                               
+Pillow                          
 
 ---
 
